@@ -1,4 +1,9 @@
-.project {
-     background-color: gray;
+.bg {
+     background-color: rgb(122,146,68);
+}
+
+.test {
+     background-color: rgb(92,69,45);
      margin-left: 10px;
+     margin-right: 10px;
 }
